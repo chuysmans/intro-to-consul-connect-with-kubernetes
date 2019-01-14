@@ -1,2 +1,3 @@
 /consul-helm
 /consul-helm/*
+.gitignore
